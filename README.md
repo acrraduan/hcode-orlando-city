@@ -1,2 +1,9 @@
-# hcode-orlando-city
-Primeiro projeto em HTML, CSS e JavaScrpit do Curso Completo do Desenvolvedor WEB
+# Código HTML do projeto
+
+'#menu li.search button {
+	background: none;
+	border: none;
+	position: absolute;
+	right: 3px;
+}'
+
